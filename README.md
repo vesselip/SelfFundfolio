@@ -22,3 +22,5 @@ Data:
 •	Date, maturity, Spot, ATM volatility
 
 In the end we generate report to show whether the strategy is profitable together with PnL profile etc
+
+data for .SPX in spx_vols.txt
